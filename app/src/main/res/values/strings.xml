@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MoneySaver</string>
+    <string name="bottom_menu_categories">Categories</string>
+    <string name="bottom_menu_operations">Operations</string>
+</resources>

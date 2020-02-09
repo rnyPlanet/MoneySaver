@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/categories"
+        android:icon="@drawable/ic_categories"
+        android:title="@string/bottom_menu_categories"
+        app:cnb_iconColor="@color/colorCategories"/>
+    <item
+        android:id="@+id/operations"
+        android:icon="@drawable/ic_operations"
+        android:title="@string/bottom_menu_operations"
+        app:cnb_iconColor="@color/colorOperations"/>
+</menu>
